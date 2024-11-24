@@ -1,4 +1,4 @@
-Timestamp,X_Position,Y_Position,Z_Position,FOM,Variance
+X_Position,Y_Position,Z_Position,FOM,Variance
 -260,-160,-50,24,5.704923038472069
 -260,-160,-100,24,5.693288182989758
 -260,-160,-150,24,5.601232810878754
