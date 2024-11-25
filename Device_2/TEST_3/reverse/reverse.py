@@ -39,7 +39,7 @@ def reverse_alternate_rows(file_path, output_path):
     print(f"Rows reversed successfully. Output saved to {output_path}")
 
 # Usage
-input_file = 'output_grouped_coordinates_23_Nov_test1.xlsx'  # Replace with your file path
-output_file = 'output_reversed_Final_23_Nov_test1.xlsx'  # Specify the output file name
+input_file = 'output_grouped_coordinates_25_Nov_test3.xlsx'  # Replace with your file path
+output_file = 'output_reversed_Final_25_Nov_test3_update.xlsx'  # Specify the output file name
 reverse_alternate_rows(input_file, output_file)
 
